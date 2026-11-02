@@ -107,6 +107,7 @@
 
 - [Validators Dashboard & API](https://validators-api-mainnet.nuxt.dev) ([Source](https://github.com/nimiq/validators-api)) ([@nimiq](https://github.com/nimiq)): Dashboard and API for monitoring validators
 - [Telegram Bot for Staking Notifications](https://github.com/Albermonte/validator-election-bot) ([Source](https://github.com/Albermonte/validator-election-bot)) ([@albermonte](https://github.com/albermonte)): Sends alerts about validator elections on Telegram
+- [Auto Restake Bot](https://github.com/subimpact/nimiq-restake-bot) ([Source](https://github.com/subimpact/nimiq-restake-bot)) ([@subimpact](https://github.com/subimpact)): Auto-compounder for Nimiq validators: restakes rewards to stakers proportionally, guards funds with a fail-closed sentinel, and ships the node watchdog. Production code powering the ImpactZero 0% fee pool.
 
 ### Node
 
@@ -136,7 +137,6 @@
 - [Nimiq Pay App](https://nimiq.com/nimiq-pay) ([@nimiq](https://github.com/nimiq)): The Nimiq Wallet has it all. Super easy usability. Own the keys. Connect directly to the blockchain. Buy and sell and much more. Supports Bitcoin and NIM Decentralized
 - [Nimiq Wallet](https://wallet.nimiq.com) ([@nimiq](https://github.com/nimiq)): The Nimiq Wallet has it all. Super easy usability. Own the keys. Connect directly to the blockchain. Buy, sell, and much more. Available without sign-up. Decentralized
 - [Multisig Wallet](https://multisig.nimiq.com) ([@nimiq](https://github.com/nimiq)): Share wallets with family, friends, and business partners
-- [Trust Wallet](https://trustwallet.com/nimiq-wallet) ([@trustwallet](https://github.com/trustwallet)): A wallet app for managing your coins on Android and iOS.
 
 ### Infrastructure
 
@@ -185,6 +185,7 @@
 #### Games
 
 - ⭐ [Nimtris](https://nimtris.com) ([Source](https://github.com/eligioo/nimtris)) ([@Eligioo](https://github.com/Eligioo)): Block puzzle game that rewards your high scores with NIM while playing
+- [Darkfall](https://darkfall.subimpact.net) ([@subimpact](https://github.com/subimpact)): Pixel action RPG: 3 classes, 8 deep dungeons and an endless abyss, random loot, a player-run NIM marketplace, daily trials and a weekly race.
 - [NimJump](https://nimjump.zetashare.com) ([Source](https://github.com/nimjump/game)) ([@emrealt34](https://github.com/emrealt34)): Earn Nimiq jump, dodge, and climb as high as you can with tap or gyro-tilt controls.
 - [PlayNimiq](https://playnimiq.com/) ([@maestroi](https://github.com/maestroi)): Play skill-based games, compete on global leaderboards, and earn real NIM rewards. Connect your Nimiq wallet and prove your skills.
 
@@ -198,6 +199,20 @@
 
 - [NimBooks](https://nimbooks.subimpact.net) ([Source](https://github.com/subimpact/nimbooks)) ([@subimpact](https://github.com/subimpact)): The books for your Nimiq wallet: balances, history, statements, payment requests, and signed proof-of-payment receipts.
 - [PACT](https://pact-nimiq.vercel.app) ([Source](https://github.com/khaleed0019/pact)) ([@khaleed0019](https://github.com/khaleed0019)): Turn a spoken deal into terms both sides sign with their Nimiq wallet, then track delivery and pay straight from the agreement.
+
+#### Education
+
+- [PROOF](https://proof.nimagent.online) ([Source](https://github.com/LegendaryTunzeverywhere/PROOF)) ([@LegendaryTunzeverywhere](https://github.com/LegendaryTunzeverywhere)): PROOF is a skill verification marketplace, built as a Nimiq mini app. Traditional platforms certify that you watched something. It verifies that you can do a skill and turns it into verifiable income.
+
+#### Shopping & deals
+
+- [NimShop](https://shop.nimiqbase.com) ([Source](https://github.com/emrealt34/nimiqshop)) ([@emrealt34](https://github.com/emrealt34)): Gift cards, eSIMs and mobile top-ups. Pay inside Nimiq Pay with NIM or USDT.
+- [NimStamp](https://nimstamp.vercel.app) ([Source](https://github.com/big14way/nimstamp)) ([@big14way](https://github.com/big14way)): Self-serve loyalty stamp cards for any business. Customers earn a stamp automatically when they pay in NIM; rewards are redeemed with a wallet signature.
+
+#### On-chain services
+
+- [AbaPay](https://nim.abapays.com) ([Source](https://github.com/investorphem/AbaPay)) ([@investorphem](https://github.com/investorphem)): Pay bills with NIM: Nigerian airtime, data, electricity, cable TV, exam PINs and bank transfers, plus phone top-ups in 140+ countries.
+- [Rewind](https://rewind-rho.vercel.app) ([Source](https://github.com/Harshyadav442277/rewind)) ([@Harshyadav442277](https://github.com/Harshyadav442277)): Refunds for NIM payments. The buyer signs a one-time request in Nimiq Pay, and the payment and refund are both verified on chain. Try it with a 0.01 NIM demo.
 
 ### EVM
 
@@ -237,7 +252,6 @@ Where you can buy, sell, or trade Nimiq:
 - [HitBTC](https://hitbtc.com/)
 - [Kriptomat](https://kriptomat.io/)
 - [Kucoin](https://www.kucoin.com/trade)
-- [MEXC](https://www.mexc.com/)
 - [SimpleSwap](https://simpleswap.io/)
 - [StealthEX](https://stealthex.io/)
 - [Swapspace](https://swapspace.co/)

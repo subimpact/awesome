@@ -13,6 +13,18 @@
       "slug": "nimtris"
     },
     {
+      "name": "AbaPay",
+      "url": "https://nim.abapays.com",
+      "type": "nimiq",
+      "category": "On-chain services",
+      "description": "Pay bills with NIM: Nigerian airtime, data, electricity, cable TV, exam PINs and bank transfers, plus phone top-ups in 140+ countries.",
+      "logo": "https://raw.githubusercontent.com/nimiq/awesome/main/src/data/assets/mini-apps/investorphem-abapay.svg",
+      "source": "https://github.com/investorphem/AbaPay",
+      "developer": "@investorphem",
+      "featured": false,
+      "slug": "abapay"
+    },
+    {
       "name": "Cinima",
       "url": "https://cinima.app",
       "type": "nimiq",
@@ -23,6 +35,18 @@
       "developer": "@Harlski",
       "featured": false,
       "slug": "cinima"
+    },
+    {
+      "name": "Darkfall",
+      "url": "https://darkfall.subimpact.net",
+      "type": "nimiq",
+      "category": "Games",
+      "description": "Pixel action RPG: 3 classes, 8 deep dungeons and an endless abyss, random loot, a player-run NIM marketplace, daily trials and a weekly race.",
+      "logo": "https://raw.githubusercontent.com/nimiq/awesome/main/src/data/assets/mini-apps/subimpact-darkfall.svg",
+      "source": null,
+      "developer": "@subimpact",
+      "featured": false,
+      "slug": "darkfall"
     },
     {
       "name": "Knock",
@@ -73,6 +97,30 @@
       "slug": "nimjump"
     },
     {
+      "name": "NimShop",
+      "url": "https://shop.nimiqbase.com",
+      "type": "nimiq",
+      "category": "Shopping & deals",
+      "description": "Gift cards, eSIMs and mobile top-ups. Pay inside Nimiq Pay with NIM or USDT.",
+      "logo": "",
+      "source": "https://github.com/emrealt34/nimiqshop",
+      "developer": "@emrealt34",
+      "featured": false,
+      "slug": "nimshop"
+    },
+    {
+      "name": "NimStamp",
+      "url": "https://nimstamp.vercel.app",
+      "type": "nimiq",
+      "category": "Shopping & deals",
+      "description": "Self-serve loyalty stamp cards for any business. Customers earn a stamp automatically when they pay in NIM; rewards are redeemed with a wallet signature.",
+      "logo": "https://raw.githubusercontent.com/nimiq/awesome/main/src/data/assets/mini-apps/big14way-nimstamp.svg",
+      "source": "https://github.com/big14way/nimstamp",
+      "developer": "@big14way",
+      "featured": false,
+      "slug": "nimstamp"
+    },
+    {
       "name": "PACT",
       "url": "https://pact-nimiq.vercel.app",
       "type": "nimiq",
@@ -95,6 +143,30 @@
       "developer": "@maestroi",
       "featured": false,
       "slug": "playnimiq"
+    },
+    {
+      "name": "PROOF",
+      "url": "https://proof.nimagent.online",
+      "type": "nimiq",
+      "category": "Education",
+      "description": "PROOF is a skill verification marketplace, built as a Nimiq mini app. Traditional platforms certify that you watched something. It verifies that you can do a skill and turns it into verifiable income.",
+      "logo": "https://raw.githubusercontent.com/nimiq/awesome/main/src/data/assets/mini-apps/legendarytunzeverywhere-proof.svg",
+      "source": "https://github.com/LegendaryTunzeverywhere/PROOF",
+      "developer": "@LegendaryTunzeverywhere",
+      "featured": false,
+      "slug": "proof"
+    },
+    {
+      "name": "Rewind",
+      "url": "https://rewind-rho.vercel.app",
+      "type": "nimiq",
+      "category": "On-chain services",
+      "description": "Refunds for NIM payments. The buyer signs a one-time request in Nimiq Pay, and the payment and refund are both verified on chain. Try it with a 0.01 NIM demo.",
+      "logo": "https://raw.githubusercontent.com/nimiq/awesome/main/src/data/assets/mini-apps/harshyadav442277-rewind.svg",
+      "source": "https://github.com/Harshyadav442277/rewind",
+      "developer": "@Harshyadav442277",
+      "featured": false,
+      "slug": "rewind"
     }
   ],
   "evm": [
